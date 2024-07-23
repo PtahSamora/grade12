@@ -9,3 +9,5 @@ __pycache__/
 .streamlit/
 *.log
 *.tmp
+/mathematics_papers
+/downloaded_papers
